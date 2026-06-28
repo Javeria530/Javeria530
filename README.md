@@ -1,16 +1,90 @@
-# 👋 Hi, I’m Javeria Iqbal
+<div align="center">
 
-- 👀 I’m passionate about **Artificial Intelligence**, **Machine Learning**, and **Bioinformatics**
-- 🌱 I’m currently pursuing a **Bachelor’s in Computer Science** at **FAST NUCES**
-- 💻 I love working on innovative tech projects that merge **biology and computation**
-- 🤝 I’m open to collaborating on **AI/ML projects**, **bioinformatics tools**, and **research-based applications**
-- 📫 You can reach me at: **Nakhalsheikh4@egmail.com** 
-- 😄 Pronouns: **She**
-- ⚡ Fun fact: I enjoy solving real-world problems using code and have a soft spot for creative UI design!
+# 👋 Hi, I'm Javeria Iqbal
+
+### AI / NLP Researcher · BS Computer Science Graduate, FAST-NUCES
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=8FD9EA&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Retrieval-Augmented+Generation;Transformer+Fine-Tuning;NLP+%2B+Bioinformatics+%F0%9F%A7%AC)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8FD9EA?style=for-the-badge&logo=googlechrome&logoColor=0A0E14)](https://javeria530.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4B5563?style=for-the-badge)](https://javeria530.github.io/CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jav530/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakhalsheikh4@gmail.com)
+
+</div>
 
 ---
 
-> ✨ This is a special repository because its `README.md` appears on your GitHub profile.  
-Feel free to check out my projects and connect!
+### 👀 About Me
 
---->
+- 🔬 Passionate about **Artificial Intelligence**, **NLP**, and **Bioinformatics**
+- 🎓 Recent **BS Computer Science** graduate, **FAST-NUCES** (CFD Campus)
+- 🤖 Building agentic AI systems, RAG pipelines, and fine-tuned transformer models
+- 🌍 Currently researching **multilingual speech emotion recognition**
+- 🤝 Open to **AI/ML research**, **bioinformatics tools**, and collaborative projects
+- 📫 Reach me at **nakhalsheikh4@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun fact: solved 255+ LeetCode problems, and have a soft spot for creative UI design
+
+---
+
+### 🛠️ Languages, Frameworks &amp; Tools
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,cpp,cs,dotnet,js,html,css,pytorch,tensorflow,sklearn,react,mongodb,git,github,vscode&perline=15)
+
+</div>
+
+### 🧠 AI / NLP Focus
+
+<div align="center">
+
+![Transformers](https://img.shields.io/badge/Transformers-4FA8C0?style=flat-square&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4FA8C0?style=flat-square&logoColor=white)
+![GPT--2](https://img.shields.io/badge/GPT--2-4FA8C0?style=flat-square&logoColor=white)
+![T5/BART](https://img.shields.io/badge/T5%2FBART-4FA8C0?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4FA8C0?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4FA8C0?style=flat-square&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4FA8C0?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4FA8C0?style=flat-square&logoColor=white)
+![Veo 3.1 API](https://img.shields.io/badge/Veo_3.1_API-4FA8C0?style=flat-square&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Top Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| 🤖 **SmartAds** *(Final Year Project)* | Agentic AI platform that autonomously generates ad creatives, then publishes and tracks campaigns end to end | `Gemini API` `Veo 3.1 API` ![React](https://skillicons.dev/icons?i=react) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+| 🩺 **DiReCT** | RAG system over real clinical notes (MIMIC-IV-Ext) that answers diagnostic queries with context-aware summaries | `RAG` ![Python](https://skillicons.dev/icons?i=py) `Streamlit` |
+| 🧠 **Transformer Fine-Tuning** | Fine-tuned BERT, GPT-2, and T5/BART for sentiment analysis, generation, and summarization | `BERT` `GPT-2` `T5/BART` |
+| 🎭 **Multimodal Sentiment Analysis** | Unified pipeline combining text, speech, and facial expressions into one sentiment prediction | `NLP` `Speech` `Computer Vision` |
+| 🗣️ **Multilingual Emotion Recognition** | Ongoing research into cross-lingual speech emotion recognition via multitask learning &amp; knowledge distillation | `Multitask Learning` `Knowledge Distillation` |
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+![LeetCode](https://img.shields.io/badge/LeetCode-255%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![ICPC](https://img.shields.io/badge/ICPC-Algo%20Queen%20Cup%202024-4FA8C0?style=for-the-badge)
+![Contest](https://img.shields.io/badge/LeetCode-Weekly%20Contest%20%23479-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *This is a special repository — its `README.md` appears on my GitHub profile.*
+Feel free to explore my projects, check out my [portfolio](https://javeria530.github.io/), or reach out!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Javeria530&color=8FD9EA&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
