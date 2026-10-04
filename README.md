@@ -1,15 +1,36 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="middle">
 
 # 👋 Hi, I'm Javeria Iqbal
 
-### AI / NLP Researcher · BS Computer Science Graduate, FAST-NUCES
+### AI / NLP Researcher · Coder · Tea & Mountain Lover 🍵🏔️
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=8FD9EA&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Retrieval-Augmented+Generation;Transformer+Fine-Tuning;NLP+%2B+Bioinformatics+%F0%9F%A7%AC)
+*Powered by chai, curiosity, and clean code.*
+
+I recently finished my BS in Computer Science at **FAST-NUCES (CFD Campus)**, and I've been happily lost in AI and language ever since. I love teaching machines to read, listen, and make sense of people, ideally with a hot cup of tea beside my laptop and a good view outside the window.
+
+I've built an agentic ad platform (**SmartAds**), a RAG system that answers questions from real clinical notes, and fine-tuned BERT, GPT-2, and T5/BART models. Right now I'm researching how emotion can be recognised in speech across different languages.
+
+I'm open to **AI/ML research**, **bioinformatics tools**, and collaborations, so say hello!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8FD9EA?style=for-the-badge&logo=googlechrome&logoColor=0A0E14)](https://javeria530.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-4B5563?style=for-the-badge)](https://javeria530.github.io/CV.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jav530/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakhalsheikh4@gmail.com)
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="assets/researcher-nature-coder.svg" alt="Illustration of a focused girl coding on her laptop with a cup of tea, plants, and a mountain view" width="420">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=8FD9EA&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Retrieval-Augmented+Generation;Transformer+Fine-Tuning;NLP+%2B+Bioinformatics+%F0%9F%A7%AC)
 
 </div>
 
@@ -28,7 +49,7 @@
 
 ---
 
-### 🛠️ Languages, Frameworks &amp; Tools
+### 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
 
@@ -64,7 +85,7 @@
 | 🩺 **DiReCT** | RAG system over real clinical notes (MIMIC-IV-Ext) that answers diagnostic queries with context-aware summaries | `RAG` ![Python](https://skillicons.dev/icons?i=py) `Streamlit` |
 | 🧠 **Transformer Fine-Tuning** | Fine-tuned BERT, GPT-2, and T5/BART for sentiment analysis, generation, and summarization | `BERT` `GPT-2` `T5/BART` |
 | 🎭 **Multimodal Sentiment Analysis** | Unified pipeline combining text, speech, and facial expressions into one sentiment prediction | `NLP` `Speech` `Computer Vision` |
-| 🗣️ **Multilingual Emotion Recognition** | Ongoing research into cross-lingual speech emotion recognition via multitask learning &amp; knowledge distillation | `Multitask Learning` `Knowledge Distillation` |
+| 🗣️ **Multilingual Emotion Recognition** | Ongoing research into cross-lingual speech emotion recognition via multitask learning & knowledge distillation | `Multitask Learning` `Knowledge Distillation` |
 
 ---
 
@@ -80,10 +101,23 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" alt="Javeria's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Javeria530&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=8FD9EA&icon_color=8FD9EA&text_color=C9D1D9" />
+<img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria530&layout=compact&hide_border=true&bg_color=0A0E14&title_color=8FD9EA&text_color=C9D1D9" />
+
+</div>
+
+---
+
 <div align="center">
 
 ✨ *This is a special repository — its `README.md` appears on my GitHub profile.*
 Feel free to explore my projects, check out my [portfolio](https://javeria530.github.io/), or reach out!
+
+☕ *Let's build something thoughtful, one cup of tea at a time.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Javeria530&color=8FD9EA&style=for-the-badge&label=PROFILE+VIEWS)
 
