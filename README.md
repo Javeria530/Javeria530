@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td width="50%" valign="middle">
 
 # 👋 Hi, I'm Javeria Iqbal
 
@@ -8,11 +8,7 @@
 
 *Powered by chai, curiosity, and clean code.*
 
-I recently finished my BS in Computer Science at **FAST-NUCES (CFD Campus)**, and I've been happily lost in AI and language ever since. I love teaching machines to read, listen, and make sense of people, ideally with a hot cup of tea beside my laptop and a good view outside the window.
-
-I've built an agentic ad platform (**SmartAds**), a RAG system that answers questions from real clinical notes, and fine-tuned BERT, GPT-2, and T5/BART models. Right now I'm researching how emotion can be recognised in speech across different languages.
-
-I'm open to **AI/ML research**, **bioinformatics tools**, and collaborations, so say hello!
+Recent **BS Computer Science** graduate from **FAST-NUCES (CFD Campus)**, happily lost in AI and language. I build agentic AI systems, RAG pipelines, and fine-tuned transformers, and I'm currently researching multilingual speech emotion recognition. Open to **AI/ML research**, **bioinformatics tools**, and collaborations, so say hello!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8FD9EA?style=for-the-badge&logo=googlechrome&logoColor=0A0E14)](https://javeria530.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-4B5563?style=for-the-badge)](https://javeria530.github.io/CV.pdf)
@@ -20,9 +16,9 @@ I'm open to **AI/ML research**, **bioinformatics tools**, and collaborations, so
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakhalsheikh4@gmail.com)
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
-<img src="rainy-night-coder.svg" alt="Animated rainy night scene: a girl coding on her glowing laptop while rain runs down the window above a city" width="440">
+<img src="rainy-night-coder.svg" alt="Animated rainy night scene: a girl coding on her glowing laptop while rain runs down the window above a city" width="420">
 
 </td>
 </tr>
